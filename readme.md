@@ -41,7 +41,7 @@
 <ul>
 <li>
 
-**Скачиваем репозиторий:** git@github.com:ilias222/test-hotel-ts.git
+**Скачиваем репозиторий:** git@github.com:ilias222/test-shop.git
 
 </li>
 <li>
