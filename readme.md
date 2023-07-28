@@ -36,6 +36,8 @@
 **Запуск**
 
 </h2>
+
+**Страница** https://ilias222.github.io/test-shop-page/
 <hr>
 
 <ul>
